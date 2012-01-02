@@ -94,7 +94,7 @@
 }
 
 - (id)initWithFrame:(CGRect)frame  {
-  return [self initWithFrame:frame arrowImageName:@"orangeArrow.png" textColor:TEXT_COLOR];
+  return [self initWithFrame:frame arrowImageName:@"ptr_orangeArrow.png" textColor:TEXT_COLOR];
 }
 
 #pragma mark -
